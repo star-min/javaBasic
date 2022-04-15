@@ -1,6 +1,6 @@
 package sec2;
 
-public class Autocasting1 {
+public class AutoCasting1 {
 
 	public static void main(String[] args) {
 		byte a = 40;	//1byte
